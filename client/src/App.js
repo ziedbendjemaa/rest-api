@@ -1,13 +1,17 @@
 
 import './App.css';
 import AddUser from './Components/AddUser';
+import Footer from './Components/Footer';
+
 import UserList from './Components/UserList';
 
 function App() {
   return (
     <div className="App">
-      <AddUser/>
+      
       <UserList/>
+      <AddUser/>
+      <Footer/>
     </div>
   );
 }

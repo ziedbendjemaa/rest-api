@@ -73,3 +73,13 @@ display: inline-block;
 border: 1px solid #cfcfcf;
 border-radius: 4px;
 }
+.foter{
+  background: rgb(100, 15, 67);
+  color: #F4F4F9;
+  font-family: monospace;
+  font-weight: 300;
+  letter-spacing: 2.5px;
+  text-align: center;
+  padding-bottom: 1%;
+  padding-top: 8%;
+}

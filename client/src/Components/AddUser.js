@@ -41,7 +41,7 @@ setNumber("")
   }
     return (
         <div>
-              <button style={{backgroundColor:"rgb(100, 15, 67)",color:"white", width: "100px",height: "40px", margin: "15px",borderRadius:"4px"}} onClick={openModal}>Add New User</button>
+              <button style={{backgroundColor:"rgb(100, 15, 67)",color:"white", width: "150px",height: "50px", margin: "15px",borderRadius:"4px"}} onClick={openModal}>Add New User</button>
       <Modal
         isOpen={modalIsOpen}
         
